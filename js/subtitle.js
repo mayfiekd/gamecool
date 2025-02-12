@@ -32,7 +32,7 @@ function getRandomGreeting() {
     "I'm Slim Shady, yes, I'm the real Shady!",
     "You're a real jerk!",
     "w h a t",
-    "Umbrion.net is here!",
+    "Mayfield.net is here!",
     "what the dog doin?",
     "I'm gonna pop some tags",
     "Shoutout to Jerry!",
